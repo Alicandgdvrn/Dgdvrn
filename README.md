@@ -41,9 +41,9 @@ try:
 
             #tüm satırları okuma
 
-            firstname = str(row["firstname"])
+            firstname = str(row["xyz.dg"])
 
-            lastname = str(row["lastname"])
+            lastname = str(rowen(zeus"])
 
  
 
